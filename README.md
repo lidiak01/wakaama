@@ -1,0 +1,2 @@
+# wakaama
+lwm2m
